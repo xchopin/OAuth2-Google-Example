@@ -1,7 +1,7 @@
 # OAuth2-Google-Example
 This is a simple example of OAuth2 with Google Calendar and Google Agenda
 
-#Installation 
+# Installation 
 ## 1. Clone the repository 
  ```bash
  $ git clone git@github.com:xchopin/OAuth2-Google-Example.git
